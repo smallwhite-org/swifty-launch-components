@@ -4,3 +4,5 @@ firebase/firebase-cli filter=lfs diff=lfs merge=lfs -text
 ai-models/whisper filter=lfs diff=lfs merge=lfs -text
 ai-models/whisper/ggml-tiny-encoder.mlmodelc filter=lfs diff=lfs merge=lfs -text
 ai-models/whisper/ggml-tiny.bin filter=lfs diff=lfs merge=lfs -text
+ai-models/whisper.zip filter=lfs diff=lfs merge=lfs -text
+*.zip filter=lfs diff=lfs merge=lfs -text
